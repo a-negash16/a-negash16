@@ -1,4 +1,4 @@
-#  About Me:
+#  Abrham Negash Gelan:
 As a BA candidate in Computer Science and Psychology at Denison University, I am eager to apply my technical skills and academic knowledge to real-world software projects. My interest in software engineering and development stems from my curiosity and passion for exploring and enhancing human-computer interactions. Through my coursework and research, I have gained proficiency in software engineering practices, front-end development, and version control. I have also completed multiple certifications in front-end development, back-end development, and user experience design, demonstrating my commitment to learning and improving my skills. I am enthusiastic about leveraging my expertise to contribute to impactful software solutions and positively impact the user experience.
 
 
